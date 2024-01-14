@@ -1,5 +1,3 @@
-/* Suha Patel spate186
-   Eric Alvarado ealvara6 */
 
 // C implementation of hexdump functions
 
