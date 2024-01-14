@@ -1,5 +1,4 @@
-/* Suha Patel spate186
-   Eric Alvarado ealvara6 */
+
 
 #include "hexfuncs.h" 
 
